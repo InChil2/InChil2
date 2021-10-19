@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+
 <h3 align='center'>🛠Tech Stack🛠</h3>
 
 <h4 align='center'>Just Do it</h4>

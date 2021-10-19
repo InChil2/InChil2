@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Shin-Incheol&animation=fadeIn&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Shin-Incheol&animation=fadeIn)
 
 <h3 align='center'>🛠Tech Stack🛠</h3>
 

@@ -15,10 +15,11 @@
   <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<br>
   <br>
 </p>  
-<p align='center'>
+
   <h4 align='center'> Data Science </h4>
   <br>
-  
+
+<p align='center'>  
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp

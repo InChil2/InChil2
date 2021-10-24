@@ -33,4 +33,5 @@
 <p align='center'>  
   <img src="https://img.shields.io/badge/snc4656@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
-[InCheol Shin's github activity graph](https://activity-graph.herokuapp.com/graph?username=InChil2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

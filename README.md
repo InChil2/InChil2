@@ -21,7 +21,7 @@
 
 
 <p align='center'>  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>&nbsp
@@ -31,7 +31,7 @@
   <h4 align='center'> Contact </h4>
 
 <p align='center'>  
-  <img src="https://img.shields.io/badge/snc4656@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a href="mailto:snc4656@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InChil2&theme=monokai)

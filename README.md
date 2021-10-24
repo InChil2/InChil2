@@ -6,10 +6,10 @@
 
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/JAVA-F40D12?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/C-0B2C4A?style=flat-square&logo=C&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Oracle-C70D2C?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/CSS-0085CA?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp

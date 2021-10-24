@@ -33,6 +33,6 @@
 <p align='center'>  
   <img src="https://img.shields.io/badge/snc4656@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
-
+<p align='center'>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InChil2&theme=monokai)
-
+</p>

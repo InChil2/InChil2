@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/CSS-0085CA?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp<br>
+  <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp<br>
   <br>
 </p>  
 

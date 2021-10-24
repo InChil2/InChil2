@@ -34,5 +34,5 @@
   <img src="https://img.shields.io/badge/snc4656@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
 </p>
 
-[![InCheol Shin's github activity graph](https://activity-graph.herokuapp.com/graph?username=InChil2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InChil2&theme=monokai)
 

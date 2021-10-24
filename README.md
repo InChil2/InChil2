@@ -17,7 +17,7 @@
 </p>  
 
   <h4 align='center'> Data Science </h4>
-  <br>
+
 
 <p align='center'>  
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp

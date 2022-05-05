@@ -36,5 +36,6 @@
   <a href="mailto:snc4656@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
   <a href="https://github.com/InChil2" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>&nbsp
 </p>
+    <p> snc4656@naver.com </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InChil2&theme=monokai)

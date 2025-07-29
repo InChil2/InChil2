@@ -1,3 +1,7 @@
+# README
+
+[English](README.md) | [한국어](README.ko.md)
+
 # Hello! I'm Incheol Shin 👋
 
 > "A Machine Learning Engineer who tries a hundred times for one perfect result"

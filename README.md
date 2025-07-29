@@ -13,15 +13,15 @@ Currently working as a **Senior Research Engineer (ML Engineer)** at **EcoHabit*
 
 ## 💼 Work Experience
 
-### EcoHabit - Senior Research Engineer (ML Engineer) (Jul 2024 ~ Present)
+### Ecohabit - Senior Research Engineer (ML Engineer) (Jul 2024 ~ Present)
 - Advanced ML research and development
 - Leading machine learning initiatives for sustainable solutions
 
-### One2CM - Manager (Jun 2022 ~ Jun 2024)
+### 12CM - Manager (Jun 2022 ~ Jun 2024)
 - ML Engineering and data analysis responsibilities
 - Building and managing SQL and ETL pipelines
 
-### Seondo Soft - Employee (Jan 2022 ~ May 2022)
+### Sundo Soft - Employee (Jan 2022 ~ May 2022)
 - Python-based software development
 
 ### Medical Standard Co., Ltd. - Technical Department Employee (Dec 2020 ~ May 2021)

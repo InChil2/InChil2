@@ -12,8 +12,9 @@ Currently working as a **Senior Research Engineer (ML Engineer)** at **EcoHabit*
 
 - 🔭 Currently working on **"Makneya"** project - an inventory management and sales forecasting app for small business owners
 - 🌱 Continuously learning machine learning algorithms and data engineering technologies
+- 🤖 Exploring AI-powered development tools like Claude Code, Gemini, and Cursor for enhanced productivity
 - 💡 Conducted research on **Crumple Algorithm** for image data augmentation
-- 📍 Based in Seongnam, Gyeonggi-do, South Korea
+- 📍 Based in Si-heung, Gyeonggi-do, South Korea
 
 ## 💼 Work Experience
 
